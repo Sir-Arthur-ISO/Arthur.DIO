@@ -9,5 +9,7 @@
 
 //[file.sh!] 
 #! usr/bin/bash
+NAME='MEDUSA'
+
 $echo Scroll.tnt | $echo whoami
 

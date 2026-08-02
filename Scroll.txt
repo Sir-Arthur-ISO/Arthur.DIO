@@ -1,0 +1,8 @@
+//VOID//
+//S.C.P//
+@list// 
+//spell [id] [affinity] [demon] [object] >// |SSH|
+//> [subject] [{object}]//
+//#1.Black Rock//[$touch] [$file]
+//#2. Silce Paper//[$touch] [$file]
+//#3. Duran Knive//[$touch] [$file]

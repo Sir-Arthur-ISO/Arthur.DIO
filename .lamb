@@ -1,0 +1,6 @@
+#$echo mkdir ./../.lamb#
+#$echo touch .lamb LAMB.BAK#
+#$echo mkdir ./../LAMB#
+#$echo mkdir ./../git_hub#
+#$ecgo touch ./git_hub Sir_Arthur.ISO$
+$exit q!

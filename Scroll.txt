@@ -6,3 +6,8 @@
 //#1.Black Rock//[$touch] [$file]
 //#2. Silce Paper//[$touch] [$file]
 //#3. Duran Knive//[$touch] [$file]
+
+//[file.sh!] 
+#! usr/bin/bash
+$echo Scroll.tnt | $echo whoami
+
